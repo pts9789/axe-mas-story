@@ -21,6 +21,12 @@ body, h1, h2, h3, h4, h5, h6 {
   padding-right: 8px;
   font-size: xx-large;
 }
+.wreath {
+  -ms-flex: 0 0 41.666667%;
+  flex: 0 0 41.666667%;
+  max-width: 41.666667%;
+  margin: 0 auto;
+}
 /* .intro-header {
   padding-top: 50px;
   padding-bottom: 50px;
